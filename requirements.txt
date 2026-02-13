@@ -1,0 +1,11 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+gunicorn==21.2.0
+sentence-transformers==2.2.2
+pydantic==2.12.5
+numpy==1.26.4
+openai
+stripe
+python-dotenv
+httpx
+pytest
